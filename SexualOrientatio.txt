@@ -1,0 +1,53 @@
+"men having sex with men[tw] OR 
+"men loving men"[tw] OR 
+"men who have sex with men"[tw] OR 
+"men who sleep with men"[tw] OR 
+"non heterosexuals"[tw] OR 
+"same gender loving"[tw] OR 
+"same sex"[tw] OR 
+"sexual dissident"[tw] OR 
+"sexual dissidents"[tw] OR 
+"sexual diversity"[tw] OR 
+"sexual minorities"[tw] OR 
+"sexual minority"[tw] OR 
+"sexual orientation"[tw] OR 
+"sexual preference"[tw] OR 
+"women loving women"[tw] OR 
+"women who have sex with women"[tw] OR 
+asexual[tw] OR 
+asexuality[tw] OR 
+asexuals[tw] OR 
+bicurious[tw] OR 
+bisexual[tw] OR 
+bisexuality[tw] OR 
+bisexuals[tw] OR 
+gay[tw] OR 
+gays[tw] OR 
+glbt[tw] OR 
+glbtq[tw] OR 
+homophile[tw] OR 
+homophilia[tw] OR 
+homosexual[tw] OR 
+homosexuality[tw] OR 
+homosexuals[tw] OR 
+lbg[tw] OR 
+lesbian[tw] OR 
+lesbianism[tw] OR 
+lesbians[tw] OR 
+lesbigay[tw] OR 
+lgbbtq[tw] OR 
+lgbt[tw] OR 
+lgbti[tw] OR 
+lgbtq[tw] OR 
+lgbtqi[tw] OR 
+lgbtqia[tw] OR 
+msm[tw] OR 
+non-heterosexual[tw] OR 
+non-heterosexuals[tw] OR 
+nonheterosexual[tw] OR 
+nonheterosexuals[tw] OR 
+pansexual[tw] OR 
+polysexual[tw] OR 
+queer[tw] OR 
+queers[tw]  
+demisexual[tw] or
